@@ -1,0 +1,10 @@
+body {
+    background: green;
+    color:white;
+    font-size: 30px;
+  }
+  .js-image {
+      width:200px;
+      height: 200px;
+      
+  }
